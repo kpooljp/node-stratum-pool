@@ -28,7 +28,7 @@
         "url": "https://github.com/kpooljp/node-stratum-pool-lyra2rev2.git"
     },
     "dependencies": {
-        "multi-hashing": "upgradeadvice/node-multi-hashing",
+        "multi-hashing": "git://github.com/kpooljp/node-multi-hashing.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
